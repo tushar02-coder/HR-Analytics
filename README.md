@@ -39,3 +39,48 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 - **Source**: Open-source HR dataset (e.g., Kaggle HR Analytics Dataset).
 
 - **Processing**: Cleaned using SQL & Power Query, visualized with Power BI.
+
+- # Tools & Technologies
+
+- **Database**: PostgreSQL
+
+- **Visualization Tool**: Power BI
+
+- **Data Cleaning & Analysis**: SQL Queries (CTE, Joins, Aggregations, Window Functions)
+
+- **DAX** – KPI calculations
+
+## Key Performance Indicators (KPIs)
+
+- Total Employees
+
+- Attrition Count & Attrition Rate (%)
+
+- Average Age, Average Salary, Average Tenure
+
+- Job Satisfaction Score by Role
+
+- Gender Diversity Ratio
+
+- Attrition by Department / Education Field
+
+- ## Power BI Dashboard
+
+- The Power BI dashboard includes:
+
+- Employee Overview – Total Employees, Attrition Count, Attrition Rate, Avg Age, Avg Salary.
+
+- Attrition Analysis – By Department, Age Group, Education Field, Years at Company.
+
+- Workforce Diversity – Gender ratio by department.
+
+- Job Satisfaction – Average satisfaction by job role.
+
+- Salary Insights – Salary trends across roles and departments.
+
+- ## Business Impact
+- This HR analytics project provides actionable insights to improve employee retention and workforce efficiency. The dashboard highlights high-risk groups, such as employees aged 26–35 and those in their first 5 years, and identifies departments like Sales and R&D where job satisfaction interventions are needed. By addressing these areas, organizations can reduce attrition, save on recruitment and training costs, and make data-driven workforce planning decisions.
+
+## Conclusion
+
+- The HR Analytics project demonstrates how SQL + Power BI can be used to gain actionable workforce insights. The analysis identifies high attrition groups, salary trends, and job satisfaction patterns, enabling HR leaders to design retention strategies, optimize hiring, and improve employee engagement.
