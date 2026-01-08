@@ -78,6 +78,9 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 
 - Salary Insights – Salary trends across roles and departments.
 
+## Dashboard 
+< img https://github.com/tushar02-coder/HR-Analytics/blob/main/IMG-20260108-WA0002.jpg/>
+
 - ## Business Impact
 - This HR analytics project provides actionable insights to improve employee retention and workforce efficiency. The dashboard highlights high-risk groups, such as employees aged 26–35 and those in their first 5 years, and identifies departments like Sales and R&D where job satisfaction interventions are needed. By addressing these areas, organizations can reduce attrition, save on recruitment and training costs, and make data-driven workforce planning decisions.
 
